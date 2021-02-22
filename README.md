@@ -9,21 +9,21 @@
 ## **Robinhood** is an internet stock trading platform that offers **Unlimited Commission Free** trading for:
 ---
 
-## : Stocks in **US** Public Companies###
+## : Stocks in **US** Public Companies ###
 ## :  ETF's *( Exchange Trade Funds)*,
 ## : Cryptocurruencies
 
 ---
 
 ## **Presented By:** ###
-<center/>**Benny**
+ **Benny**
 ---
-<center/> **Kimberly**
+ **Kimberly**
 ---
-<center/>**Nenita**
+**Nenita**
 ---
 ---
-# <center/> **Lets Dive In...**
+# <center/>  **Lets Dive In...**
 
 
 ## Case Study Assignment
