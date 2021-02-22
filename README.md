@@ -6,21 +6,21 @@
 
 #  <center/> Robinhood Case Study 
 ---
-## **Robinhood** is an internet stock trading platform that offers **Unlimited Commission Free** trading for:
+## **Robinhood** is an internet stock trading platform that offers *Unlimited Commission Free* trading for:
 ---
 
-## : Stocks in **US** Public Companies ###
-## :  ETF's *( Exchange Trade Funds)*,
-## : Cryptocurruencies
+ ## <center/> : Stocks in *US* Public Companies ###
+## <center/> :  ETF's *(Exchange Trade Funds)*,
+## <center/> : Cryptocurruencies
 
 ---
 
 ## **Presented By:** ###
- **Benny**
+ *Benny*
 ---
- **Kimberly**
+ *Kimberly*
 ---
-**Nenita**
+*Nenita*
 ---
 ---
 # <center/>  **Lets Dive In...**
